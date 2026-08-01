@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stargazers_count": 245000,
+    "forks_count": 31000,
+    "open_issues_count": 1200,
+    "updated_at": "2026-07-30T18:12:00Z",
+    "html_url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with interactive lessons and projects.",
+    "language": "JavaScript",
+    "stargazers_count": 410000,
+    "forks_count": 38000,
+    "open_issues_count": 195,
+    "updated_at": "2026-07-29T11:34:00Z",
+    "html_url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "full_name": "vercel/next.js",
+    "description": "The React framework for production-grade web applications.",
+    "language": "TypeScript",
+    "stargazers_count": 182000,
+    "forks_count": 27000,
+    "open_issues_count": 860,
+    "updated_at": "2026-07-28T09:05:00Z",
+    "html_url": "https://github.com/vercel/next.js"
+  },
+  {
+    "full_name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "stargazers_count": 96000,
+    "forks_count": 6200,
+    "open_issues_count": 270,
+    "updated_at": "2026-07-27T15:48:00Z",
+    "html_url": "https://github.com/tailwindlabs/tailwindcss"
+  }
+]
